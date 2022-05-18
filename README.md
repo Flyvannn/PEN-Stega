@@ -1,2 +1,2 @@
-# PEN-stega
-PEN-stega: Progressive Non-autoregressive Generative Linguistic Steganography
+# PEN-Stega
+PEN-Stega: Progressive Non-autoregressive Generative Linguistic Steganography
